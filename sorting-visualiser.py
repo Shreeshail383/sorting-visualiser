@@ -1,4 +1,3 @@
-
 import argparse
 import random
 from time import perf_counter
